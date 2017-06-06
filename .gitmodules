@@ -1,0 +1,12 @@
+[submodule "java/hmm"]
+	path = java/hmm
+	url = git@github.com:KommuSoft/jahmm.git
+[submodule "cpp/mcts"]
+	path = cpp/mcts
+	url = git@github.com:PetterS/monte-carlo-tree-search.git
+[submodule "python/tree_rnn"]
+	path = python/tree_rnn
+	url = git@github.com:ofirnachum/tree_rnn.git
+[submodule "cuda/word2vec_cbow"]
+	path = cuda/word2vec_cbow
+	url = git@github.com:ChenglongChen/word2vec_cbow.git
