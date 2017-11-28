@@ -10,3 +10,6 @@
 [submodule "cuda/word2vec_cbow"]
 	path = cuda/word2vec_cbow
 	url = git@github.com:ChenglongChen/word2vec_cbow.git
+[submodule "cuda/lbfgs"]
+	path = cuda/lbfgs
+	url = git@github.com:jwetzl/CudaLBFGS.git
