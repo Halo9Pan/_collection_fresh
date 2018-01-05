@@ -13,3 +13,9 @@
 [submodule "cuda/lbfgs"]
 	path = cuda/lbfgs
 	url = git@github.com:jwetzl/CudaLBFGS.git
+[submodule "cpp/ftrl"]
+	path = cpp/ftrl
+	url = git@github.com:bingzhengwei/ftrl_proximal_lr.git
+[submodule "python/ftrl"]
+	path = python/ftrl
+	url = git@github.com:fmfn/FTRLp.git
